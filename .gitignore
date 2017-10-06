@@ -1,0 +1,5 @@
+# Ignore:
+mt
+deps
+*.o
+*.d
